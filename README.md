@@ -11,13 +11,13 @@ Each task is designed to build clarity and confidence in handling data types—e
 
 | 🧪 Task File   | 📄 Description                                                        | 📷 Output Screenshot       |
 |---------------|------------------------------------------------------------------------|----------------------------|
-| `task1.py`    | 📊 Create integer and float variables, add them, and check result type | ![Task 1](task1.png)       |
-| `task2.py`    | 🔢 Convert string `"100"` to integer and add                           | ![Task 2](task2.png)       |
-| `task_3.py`   | ⚙️ Convert float `12.75` to int and string                             | ![Task 3](task_3.png)      |
-| `task4.py`    | 🔁 Convert `True` and `False` to int, float, and string                | ![Task 4](task4.png)       |
-| `task5.py`    | 🔗 Concatenate string numbers and perform addition                     | ![Task 5](task5.png)       |
-| `task6.py`    | 🔍 Check if user input is numeric using `isdigit()`                    | ![Task 6](task6.png)       |
-| `task_7.py`   | 🔄 Convert string `"37.5"` to float, then to int                       | ![Task 7](task_7.png)      |
+| `task1.py`    | 📊 Create integer and float variables, add them, and check result type |  ![Task 1](task%201.png)   |
+| `task2.py`    | 🔢 Convert string `"100"` to integer and add                           | ![Task 2](task%202.png)   |
+| `task_3.py`   | ⚙️ Convert float `12.75` to int and string                             | ![Task 3](task%203.png)      |
+| `task4.py`    | 🔁 Convert `True` and `False` to int, float, and string                | ![Task 4](task%204.png)       |
+| `task5.py`    | 🔗 Concatenate string numbers and perform addition                     |  ![Task 5](task%205.png)      |
+| `task6.py`    | 🔍 Check if user input is numeric using `isdigit()`                    | ![Task 6](task%206.png)       |
+| `task_7.py`   | 🔄 Convert string `"37.5"` to float, then to int                       | ![Task 7](task%207.png)     |
 
 ---
 
