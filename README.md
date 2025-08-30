@@ -23,12 +23,13 @@ Each task is designed to build clarity and confidence in handling data types—e
 
 ## ✅ What I Practiced with Data Types  
 
-- Converting between **str, int, float, and bool**  
-- Using built-in methods like `int()`, `float()`, `str()`, and `isdigit()`  
-- Understanding how Python treats **booleans as numeric values**  
-- Differentiating between **string concatenation vs numeric addition**  
-- Validating user input before performing operations  
-- Printing values with their **data types** using `type()`  
+- Declaring and manipulating variables of type `int`, `float`, `str`, and `bool`  
+- Performing type conversion using built-in functions: `int()`, `float()`, `str()`  
+- Using `type()` to inspect and verify data types during execution  
+- Understanding how Python treats `True` and `False` as numeric values (`1` and `0`)  
+- Differentiating between string concatenation and numeric addition  
+- Validating user input with `.isdigit()` before applying operations  
+- Applying type conversion in real-world scenarios like calculations and input handling
 
 ---
 
