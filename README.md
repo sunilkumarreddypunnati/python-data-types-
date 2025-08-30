@@ -40,7 +40,7 @@ Each task is designed to build clarity and confidence in handling data types—e
 I’m passionate about **Python basics, data analysis, and creating impactful dashboards.**  
 I believe in **learning by doing**, and this repo reflects my journey of mastering the fundamentals.  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sunilkumarreddypunnati)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-reddy-punnati-a0a279308/)  
 🔗 [GitHub](https://github.com/sunilkumarreddypunnati)  
 
 🙌 If you’re a recruiter, mentor, or fellow learner — let’s connect!  
